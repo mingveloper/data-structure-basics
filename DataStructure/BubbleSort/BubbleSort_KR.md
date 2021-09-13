@@ -1,7 +1,6 @@
-##Bubble Sort
-____
+# Bubble Sort
 
-<h3>버블 정렬이란?</h4>
+<h2>버블 정렬이란?</h2>
 
 <h4>인접한 두 항목의 값을 비교해서 일정한 기준을 만족하면 서로의 값을 교환하여 정렬하는 방식</h6>
 
@@ -9,7 +8,7 @@ ____
  2. 1과정의 결과는 가장 큰 수가 배열 마지막에 위치하게 된다.
  3. for문은 배열의 length -i 까지만 탐색
 
-#### 버블정렬 예시(Java)
+### 버블정렬 예시(Java)
 
 ```java
 public static void bubbleSort(int[] arr) {
@@ -25,7 +24,7 @@ public static void bubbleSort(int[] arr) {
 }
 ```
 
-#### 테스트
+### 테스트
 
 ```java
 public static void main(String[] args) {
@@ -37,8 +36,14 @@ public static void main(String[] args) {
 }
 ```
 
-#### 결과
+### 결과
 
 ```java
 1 2 4 6 7 8
 ```
+
+### Reference 
+
+* https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort
+
+* https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html

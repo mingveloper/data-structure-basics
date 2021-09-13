@@ -1,20 +1,19 @@
 <!-- Heading -->
-## Computer Science
-___
+# Computer Science
 
-<h4>- Algorithm</h4>
+
+<h2>- Algorithm</h2>
 
 * [Bubble Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
-* [Selection Sort](DataStructure/BubbleSort.md)
 * [Insertion Sort](DataStructure/BubbleSort.md)
 * [Quick Sort](DataStructure/BubbleSort.md)
 * [Merge Sort](DataStructure/BubbleSort.md)
 * [Heap Sort](DataStructure/BubbleSort.md)
 * [Radix Sort](DataStructure/BubbleSort.md)
-  ß
+* [Selection Sort](DataStructure/SelectionSort/SelectionSort_KR.md.md)  
 <br/>    
 
-<h4>- Data Structure</h4>
+<h2>- Data Structure</h2>
 
 * [Array](DataStructure/BubbleSort.md)
 * [ArrayList](DataStructure/BubbleSort.md)

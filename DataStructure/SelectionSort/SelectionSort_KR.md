@@ -1,15 +1,15 @@
-## Selection Sort
-____
+# Selection Sort
 
-<h3>선택 정렬이란?</h4>
+
+<h2>선택 정렬이란?</h2>
 
 <h4>전체 원소들 중에서 기준위치에 맞는 원소를 선택하여 자리를 교환하는 방식</h6>
 
  1. 전체 원소 중에서 가장 작은 값을 찾아 선택하여 첫 번째 원소의 자리와 교환.
- 2. 1.을 수행 후 그 다음 작은 값을 찾아 두번째 원소의 자리와 교환한다. 
+ 2. 1의 과정을 수행 후 그 다음 작은 값을 찾아 두번째 원소의 자리와 교환한다. 
  3. 1과 2의 과정을 반복하여 정렬시킨다. 
 
-#### 선택 정렬 예시(Java)
+### 선택 정렬 예시(Java)
 
 ```java
 public class SelectionSort {
@@ -36,10 +36,9 @@ public class SelectionSort {
     }
   
 }
-view raw
 ```
 
-#### 테스트
+### 테스트
 
 ```java
 public static void main(String[] args) {
@@ -51,8 +50,15 @@ public static void main(String[] args) {
 }
 ```
 
-#### 결과
+### 결과
 
 ```java
 2 4 5 7 8 11
 ```
+
+
+
+### Reference 
+* https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#reference--additional-resources
+
+* https://medium.com/@joongwon/%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88-805391cb088e
