@@ -5,20 +5,20 @@
 <h2>- Algorithm</h2>
 
 * [Bubble Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
-* [Insertion Sort](DataStructure/BubbleSort.md)
-* [Quick Sort](DataStructure/BubbleSort.md)
-* [Merge Sort](DataStructure/BubbleSort.md)
-* [Heap Sort](DataStructure/BubbleSort.md)
-* [Radix Sort](DataStructure/BubbleSort.md)
-* [Selection Sort](DataStructure/SelectionSort/SelectionSort_KR.md.md)  
+* [Insertion Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
+* [Quick Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
+* [Merge Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
+* [Heap Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
+* [Radix Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
+* [Selection Sort](DataStructure/SelectionSort/SelectionSort_KR.md)  
 <br/>    
 
 <h2>- Data Structure</h2>
 
-* [Array](DataStructure/BubbleSort.md)
-* [ArrayList](DataStructure/BubbleSort.md)
-* [LinkedList](DataStructure/BubbleSort.md)
-* [Stack & Queue](DataStructure/BubbleSort.md)
-* [Heap](DataStructure/BubbleSort.md)
-
+* [Array](DataStructure/SelectionSort/SelectionSort_KR.md)  
+* [ArrayList](DataStructure/SelectionSort/SelectionSort_KR.md)  
+* [LinkedList](DataStructure/SelectionSort/SelectionSort_KR.md)  
+* [Stack & Queue](DataStructure/SelectionSort/SelectionSort_KR.md)  
+* [Heap](DataStructure/SelectionSort/SelectionSort_KR.md)  
+* 
 <br/>
