@@ -4,6 +4,7 @@
 
 <h2>- Algorithm (Java) </h2>
 
+* [Case Change(대소문자구별)](DataStructure/CaseChange/CaseChange.md)  
 * [String-searching algorithm](DataStructure/StringSearching/StringSearching.md)  
 * [Bubble Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
 * Insertion Sort
