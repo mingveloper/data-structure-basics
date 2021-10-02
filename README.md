@@ -4,6 +4,7 @@
 
 <h2>- Algorithm (Java) </h2>
 
+* [Palindrome(회문문자열)](DataStructure/Palindrome/Palindrome.md) 
 * [Case Change(대소문자구별)](DataStructure/CaseChange/CaseChange.md)  
 * [String-searching algorithm](DataStructure/StringSearching/StringSearching.md)  
 * [Bubble Sort](DataStructure/BubbleSort/BubbleSort_KR.md)
