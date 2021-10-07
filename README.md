@@ -16,6 +16,7 @@
 * [Selection Sort](DataStructure/SelectionSort/SelectionSort_KR.md)  
 * [Anagram(Hash)](DataStructure/Anagram/README.md)
 * [TheMostVotes(Hash)- 최다득표 ](DataStructure/MostVotes/README.md) 
+* [CorrectParenthesis(Stack)- 올바른 괄호 ](DataStructure/CorrectParenthesis/README.md) 
 <br/>    
 
 <h2>- Data Structure</h2>
