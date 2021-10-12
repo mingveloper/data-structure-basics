@@ -17,7 +17,8 @@
 * [Anagram(Hash)](DataStructure/Anagram/README.md)
 * [TheMostVotes(Hash)- 최다득표 ](DataStructure/MostVotes/README.md) 
 * [CorrectParenthesis(Stack)- 올바른 괄호 ](DataStructure/CorrectParenthesis/README.md) 
-* [Recursive Binary Number(Stack)- 올바른 괄호 ](DataStructure/RecursiveBinary/README.md) 
+* [Recursive Binary Number(Recursive) ](DataStructure/RecursiveBinary/README.md) 
+* [Remove Duplicate Characters - 중복문자제거 ](DataStructure/RemoveDuplicateCharacters/README.md) 
 <br/>    
 
 <h2>- Data Structure</h2>
