@@ -20,6 +20,7 @@
 * [Recursive Binary Number(Recursive) ](DataStructure/RecursiveBinary/README.md) 
 * [Remove Duplicate Characters - 중복문자제거 ](DataStructure/RemoveDuplicateCharacters/README.md)
 * [Subset - 부분집합 구하기(DFS) ](DataStructure/SubsetDFS/README.md) 
+* [Select Player - 선수선발(Greedy) ](DataStructure/SelectPlayer/README.md) 
 
 <br/>    
 
